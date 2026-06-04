@@ -26823,18 +26823,6 @@ prebuilt_apex {
 }
 
 android_app_import {
-    name: "ImsService",
-    owner: "xiaomi",
-    apk: "proprietary/system_ext/priv-app/ImsService/ImsService.apk",
-    certificate: "platform",
-    dex_preopt: {
-        enabled: false,
-    },
-    privileged: true,
-    system_ext_specific: true,
-}
-
-android_app_import {
     name: "MtkGbaService",
     owner: "xiaomi",
     apk: "proprietary/system_ext/priv-app/MtkGbaService/MtkGbaService.apk",
