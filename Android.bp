@@ -26835,33 +26835,6 @@ android_app_import {
 }
 
 dex_import {
-    name: "mediatek-ims-base",
-    owner: "xiaomi",
-    jars: [
-        "proprietary/system_ext/framework/mediatek-ims-base.jar",
-    ],
-    system_ext_specific: true,
-}
-
-dex_import {
-    name: "mediatek-ims-common",
-    owner: "xiaomi",
-    jars: [
-        "proprietary/system_ext/framework/mediatek-ims-common.jar",
-    ],
-    system_ext_specific: true,
-}
-
-dex_import {
-    name: "mediatek-ims-extension-plugin",
-    owner: "xiaomi",
-    jars: [
-        "proprietary/system_ext/framework/mediatek-ims-extension-plugin.jar",
-    ],
-    system_ext_specific: true,
-}
-
-dex_import {
     name: "mediatek-telecom-common",
     owner: "xiaomi",
     jars: [

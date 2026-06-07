@@ -1241,11 +1241,7 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.videotelephony-V1-ndk \
     vendor.mediatek.hardware.videotelephony@1.0 \
     com.google.android.widevine.nonupdatable \
-    ImsService \
     MtkGbaService \
-    mediatek-ims-base \
-    mediatek-ims-common \
-    mediatek-ims-extension-plugin \
     mediatek-telecom-common \
     mediatek-telephony-base \
     mediatek-telephony-common \
