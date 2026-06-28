@@ -1037,7 +1037,7 @@ PRODUCT_PACKAGES += \
     libmmagent \
     libmml \
     libmnetlink_v104 \
-    libmnl \
+    libmnl_mtk \
     libmpbase \
     libmsnr \
     libmtk-fusion-ril-prop-vsim \
