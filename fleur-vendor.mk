@@ -997,7 +997,7 @@ PRODUCT_PACKAGES += \
     libfeature_rss \
     libfeatureiodrv_mem \
     libforkexecwrap \
-    libformatter \
+    libformatter_mtk \
     libgamehdr \
     libged \
     libgf_ca \
